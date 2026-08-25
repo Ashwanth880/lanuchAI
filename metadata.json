@@ -1,0 +1,6 @@
+{
+  "name": "Game 2 Learn: ML, LLM & RAG Quest",
+  "description": "An interactive, gamified learning platform covering Machine Learning, AI Model Training, Large Language Models (LLM), and Retrieval-Augmented Generation (RAG) pipelines with live flow diagrams, hands-on level challenges, interactive sandboxes, and progression analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
